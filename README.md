@@ -69,12 +69,12 @@ Outputs are stored in CSV or NetCDF format for analysis and visualization.
 
 5. References
 
-Birkel, C., Jiang, C. et al. (2024). Tracer-aided ecohydrological modeling in humid tropical catchments.
+** Stevenson, J. L., Birkel, C., Comte, J. C., Tetzlaff, D., Marx, C., Neill, A., Maneta, M., Boll, J., & Soulsby, C. (2023). Quantifying heterogeneity in ecohydrological partitioning in urban green spaces through the integration of empirical and modelling approaches. Environmental Monitoring and Assessment, 195(4). https://doi.org/10.1007/s10661-023-11055-6
 
-Landgraf, J., Jiang, C. et al. (2023). Long-term ecohydrological simulation in the Demnitz Mill Creek catchment.
+** Birkel, C., Tetzlaff, D., Ring, A. M., & Soulsby, C. (2025). Does high-resolution in-situ xylem and atmospheric vapor isotope data help improve modeled estimates of ecohydrological partitioning? Agricultural and Forest Meteorology, 365, 110467. https://doi.org/10.1016/j.agrformet.2025.110467
 
-Stevenson, E., Jiang, C. et al. (2023). Process-based tracer-aided model for plot-scale hydrological partitioning.
+** Landgraf, J., Tetzlaff, D., Birkel, C., Stevenson, J. L., & Soulsby, C. (2023). Assessing land-use effects on ecohydrological partitioning in the critical zone through isotope-aided modelling. Earth Surface Processes and Landforms, 48(15), 3199–3219. https://doi.org/10.1002/esp.5691
 
-Jiang, C., Tetzlaff, D. et al. (2025). Assessing the drought resilience of different land-management scenarios using a tracer-aided ecohydrological model with variable root-uptake distributions (under discussion).
+** Jiang, C., Tetzlaff, D., Wu, S., Birkel, C., Laudon, H., & Soulsby, C. (2025). Assessing the drought resilience of different land-management scenarios using a tracer-aided ecohydrological model with variable root-uptake distributions. EGUsphere, 2025, 1–34. https://doi.org/10.5194/egusphere-2025-2533 (under discussion).
 
-Jiang, C., Soulsby, C. et al. (2025). Predicting summer droughts in Central Europe from winter NAO. Nature Water (submitted).
+** Jiang, C., Soulsby, C., Laudon, H., Wu, S., & Tetzlaff, D. (2025). Predicting summer droughts in Central Europe from winter NAO. Nature Water (submitted).
