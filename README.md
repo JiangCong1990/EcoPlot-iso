@@ -71,7 +71,8 @@ Outputs are stored in CSV or NetCDF format for analysis and visualization.
 
 ** Stevenson, J. L., Birkel, C., Comte, J. C., Tetzlaff, D., Marx, C., Neill, A., Maneta, M., Boll, J., & Soulsby, C. (2023). Quantifying heterogeneity in ecohydrological partitioning in urban green spaces through the integration of empirical and modelling approaches. Environmental Monitoring and Assessment, 195(4). https://doi.org/10.1007/s10661-023-11055-6
 
-** Birkel, C., Tetzlaff, D., Ring, A. M., & Soulsby, C. (2025). Does high-resolution in-situ xylem and atmospheric vapor isotope data help improve modeled estimates of ecohydrological partitioning? Agricultural and Forest Meteorology, 365, 110467. https://doi.org/10.1016/j.agrformet.2025.110467
+** Birkel, C., Arciniega-Esparza, S., Maneta, M. P., Boll, J., Stevenson, J. L., Benegas-Negri, L., Tetzlaff, D., & Soulsby, C. (2024). Importance of measured transpiration fluxes for modelled ecohydrological partitioning in a tropical agroforestry system.
+Agricultural and Forest Meteorology, 346, 109870. https://doi.org/10.1016/j.agrformet.2023.109870
 
 ** Landgraf, J., Tetzlaff, D., Birkel, C., Stevenson, J. L., & Soulsby, C. (2023). Assessing land-use effects on ecohydrological partitioning in the critical zone through isotope-aided modelling. Earth Surface Processes and Landforms, 48(15), 3199–3219. https://doi.org/10.1002/esp.5691
 
