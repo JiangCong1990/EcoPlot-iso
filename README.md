@@ -78,4 +78,4 @@ Agricultural and Forest Meteorology, 346, 109870. https://doi.org/10.1016/j.agrf
 
 ** Jiang, C., Tetzlaff, D., Wu, S., Birkel, C., Laudon, H., & Soulsby, C. (2025). Assessing the drought resilience of different land-management scenarios using a tracer-aided ecohydrological model with variable root-uptake distributions. EGUsphere, 2025, 1–34. https://doi.org/10.5194/egusphere-2025-2533 (under discussion).
 
-** Jiang, C., Soulsby, C., Laudon, H., Wu, S., & Tetzlaff, D. (2025). Predicting summer droughts in Central Europe from winter NAO. Nature Water (submitted).
+** Jiang, C., Soulsby, C., Laudon, H., Wu, S., & Tetzlaff, D. (2025). Predicting summer droughts in Central Europe from winter NAO (submitted).
