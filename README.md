@@ -46,14 +46,15 @@ Figure 2. (a) Schematic representation of the ecohydrological fluxes and water p
 
 
 3. Required Input and Calibration Data
-| Variable                        | Unit        | Description                                                           |
-|----------------------------------|------------|-----------------------------------------------------------------------|
-| Precipitation (P)                | mm d⁻¹     | Amount of rainfall or snowfall                                        |
-| δ²H of precipitation      | ‰ VSMOW    | Isotopic composition of input water                                   |
-| Air temperature (Tair)           | °C         | Mean air temperature                                                  |
+   
+| Variable                          | Unit       | Description                                                           |
+|-----------------------------------|------------|-----------------------------------------------------------------------|
+| Precipitation (P)                 | mm d⁻¹     | Amount of rainfall or snowfall                                        |
+| δ²H of precipitation              | ‰ VSMOW    | Isotopic composition of input water                                   |
+| Air temperature (Tair)            | °C         | Mean air temperature                                                  |
 | Potential evapotranspiration (PET)| mm d⁻¹     | Computed e.g. by FAO-56 Penman–Monteith                               |
-| Relative humidity (RH)           | %          | Daily mean humidity                                                   |
-| Leaf area index (LAI)            | m² m⁻²     | Vegetation canopy variable                                            |
+| Relative humidity (RH)            | %          | Daily mean humidity                                                   |
+| Leaf area index (LAI)             | m² m⁻²     | Vegetation canopy variable                                            |
 
 
 4. Model Outputs
