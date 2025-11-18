@@ -45,7 +45,7 @@ The isotope module allows explicit separation of evaporation and transpiration l
 Figure 2. (a) Schematic representation of the ecohydrological fluxes and water partitioning in the EcoPlot-iso model illustrating major water fluxes and storage components; (b) Conceptual framework and key parameters of the EcoPlot-iso model(Landgraf et al., 2023; Stevenson et al., 2023), highlighting the key ecohydrological processes simulated in this study (Jiang et al., 2025).
 
 
-3. Required Input and Calibration Data
+3. Required Input Data
    
 | Variable                          | Unit       | Description                                                           |
 |-----------------------------------|------------|-----------------------------------------------------------------------|
