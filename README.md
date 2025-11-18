@@ -76,7 +76,22 @@ Figure 2. (a) Schematic representation of the ecohydrological fluxes and water p
 | Soil Moisture (30–100 cm)    | mm        | Water stored in deep soil layer                                                      |
 | Isotopic Composition (δ²H)   | ‰         | Stable isotope ratios of water in fluxes and storages (for each process/layer)       |
 
-5. References
+5. Run the model
+   
+   (a) Install required R packages from Conda-forge
+   
+   conda install -c conda-forge r-data.table r-fme r-tidyverse r-gridextra r-corrplot r-gplots r-rcolorbrewer r-factoextra r-ggplot2 r-ggpubr r-ggsci r-scales r-lubridate r-cowplot r-hydrogof
+   
+   (b) Execute the EcoPlot-iso R script for different sites
+   
+    Rscript Script_SWBiso_Forest.R
+
+   (c) Execute the R script for the forest management scenarios
+
+   Rscript Script_SWBiso_Scenario.R
+
+   
+7. References
 
 ** Stevenson, J. L., Birkel, C., Comte, J. C., Tetzlaff, D., Marx, C., Neill, A., Maneta, M., Boll, J., & Soulsby, C. (2023). Quantifying heterogeneity in ecohydrological partitioning in urban green spaces through the integration of empirical and modelling approaches. Environmental Monitoring and Assessment, 195(4). https://doi.org/10.1007/s10661-023-11055-6
 
