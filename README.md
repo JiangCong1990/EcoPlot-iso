@@ -52,8 +52,8 @@ Figure 2. (a) Schematic representation of the ecohydrological fluxes and water p
 | Precipitation (P)                 | mm d⁻¹     | Amount of rainfall or snowfall                                        |
 | δ²H of precipitation              | ‰ VSMOW    | Isotopic composition of input water                                   |
 | Air temperature (Tair)            | °C         | Mean air temperature                                                  |
-| Potential evapotranspiration (PET)| mm d⁻¹     | Computed e.g. by FAO-56 Penman–Monteith                               |
-| Relative humidity (RH)            | %          | Daily mean humidity                                                   |
+| Potential evapotranspiration (PET)| mm d⁻¹     | Computed by FAO-56 Penman–Monteith                                    |
+| Relative humidity (RH)            | %          | Daily humidity                                                   |
 | Leaf area index (LAI)             | m² m⁻²     | Vegetation canopy variable                                            |
 
 
