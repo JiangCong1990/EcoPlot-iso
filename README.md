@@ -11,7 +11,7 @@ The model has been applied in diverse climatic and hydrological settings, includ
 
 ** a four-year tropical application in Costa Rica (Birkel et al., 2024), and
 
-** a long-term (2000–2024) tracer-aided simulation for drought resilience assessment in DMC (Jiang et al., 2025).
+** a long-term (2000–2024) tracer-aided simulation for drought resilience assessment in DMC (Jiang et al., 2026, HESS).
 
 Building on these applications, the current version extends EcoPlot-iso for long-term ecohydrological simulations and management scenario analysis, integrating a new depth-dependent root-uptake module (Jiang et al., 2025).
 
@@ -100,6 +100,6 @@ Agricultural and Forest Meteorology, 346, 109870. https://doi.org/10.1016/j.agrf
 
 ** Landgraf, J., Tetzlaff, D., Birkel, C., Stevenson, J. L., & Soulsby, C. (2023). Assessing land-use effects on ecohydrological partitioning in the critical zone through isotope-aided modelling. Earth Surface Processes and Landforms, 48(15), 3199–3219. https://doi.org/10.1002/esp.5691
 
-** Jiang, C., Tetzlaff, D., Wu, S., Birkel, C., Laudon, H., & Soulsby, C. (2025). Assessing the drought resilience of different land-management scenarios using a tracer-aided ecohydrological model with variable root-uptake distributions. EGUsphere, 2025, 1–34. https://doi.org/10.5194/egusphere-2025-2533 (under discussion).
+**Jiang, C., Tetzlaff, D., Wu, S., Birkel, C., Laudon, H., & Soulsby, C. (2026).** Exploring impacts of forest management strategies on water partitioning in a drought-sensitive catchment using a tracer-aided ecohydrological framework. *Hydrology and Earth System Sciences, 30*(12), 3715–3739. [https://doi.org/10.5194/hess-30-3715-2026](https://doi.org/10.5194/hess-30-3715-2026)
 
-** Jiang, C., Soulsby, C., Laudon, H., Wu, S., & Tetzlaff, D. (2025). Predicting summer droughts in Central Europe from winter NAO (submitted).
+**Jiang, C., Soulsby, C., Laudon, H., Wu, S., & Tetzlaff, D. (2026).** A positive phase of the winter North Atlantic Oscillation is associated with drought in Central Europe the following summer. *Communications Earth & Environment, 7*(1), 538. [https://doi.org/10.1038/s43247-026-03729-z](https://doi.org/10.1038/s43247-026-03729-z)
