@@ -13,7 +13,7 @@ The model has been applied in diverse climatic and hydrological settings, includ
 
 ** a long-term (2000–2024) tracer-aided simulation for drought resilience assessment in DMC (Jiang et al., 2026, HESS).
 
-Building on these applications, the current version extends EcoPlot-iso for long-term ecohydrological simulations and management scenario analysis, integrating a new depth-dependent root-uptake module (Jiang et al., 2025).
+Building on these applications, the current version extends EcoPlot-iso for long-term ecohydrological simulations and management scenario analysis, integrating a new depth-dependent root-uptake module (Jiang et al., 2026, HESS).
 
 **2. Model Framework and Structure**
 
@@ -42,7 +42,7 @@ The isotope module allows explicit separation of evaporation and transpiration l
 
  <img width="940" height="456" alt="image" src="https://github.com/user-attachments/assets/4e7b24a9-ea3c-473f-9dd0-66702caca42b" />
 
-Figure 2. (a) Schematic representation of the ecohydrological fluxes and water partitioning in the EcoPlot-iso model illustrating major water fluxes and storage components; (b) Conceptual framework and key parameters of the EcoPlot-iso model(Landgraf et al., 2023; Stevenson et al., 2023), highlighting the key ecohydrological processes simulated in this study (Jiang et al., 2025).
+Figure 2. (a) Schematic representation of the ecohydrological fluxes and water partitioning in the EcoPlot-iso model illustrating major water fluxes and storage components; (b) Conceptual framework and key parameters of the EcoPlot-iso model(Landgraf et al., 2023; Stevenson et al., 2023), highlighting the key ecohydrological processes simulated in this study (Jiang et al., 2026, HESS).
 
 
 **3. Required Input Data**
